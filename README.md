@@ -1,20 +1,21 @@
-# Mohamed Gamal
-### Frontend Developer
+## Mohamed Gamal 
+`Frontend Developer`
 
-I build frontend systems with React and Next.js, with close attention to structure, interface quality, and execution.
+### About 
 
-My work sits at the intersection of engineering and design: strong planning, clean visual decisions, and implementation that stays careful all the way through. I care about products that feel considered, not improvised.
+I build frontend systems with React and Next.js, with a focus on structure, interface quality, and careful execution.
+I like taking products from raw ideas to polished interfaces, keeping the design process and code quality close together.
 
-Reach me on [X](https://x.com/mo0hamed_gamal), or connect on [LinkedIn](https://www.linkedin.com/in/mohamed-g-shoaib/). Based in Cairo, Egypt.
+Reach me on [X](https://x.com/mo0hamed_gamal), or connect on [LinkedIn](https://www.linkedin.com/in/mohamed-g-shoaib/).
+Based in Cairo, Egypt.
 
-### Approach
+### My Approach
 
-I work mostly with React and Next.js. I use React with Vite for focused client-side products, and Next.js when the product needs a stronger foundation for routing, content, SEO, or backend work, usually with Supabase and Postgres.
+I spend most of my time building with React and Next.js. For smaller client-side products, I’ll often use Vite. When a product needs stronger routing, content, SEO, or backend work, I usually reach for Next.js with Supabase and Postgres.
 
-For UI, I usually reach for shadcn/ui or coss ui. I prefer Base UI when I want control over the primitives, and Radix UI when the ecosystem fit is better.
+On the interface side, I work with shadcn/ui, coss UI, Base UI, and Radix. The choice depends on how much control the project needs, and how close I need to stay to the primitives.
 
 ### Portfolio
 
-I showcase a selection of frontend work across client products and personal systems. And I write notes on frontend engineering, interface design, architecture, performance, and the decisions that usually sit behind the final surface.
-
-[Visit my portfolio](https://www.mohamedgshoaib.me/)
+[My portfolio](https://www.mohamedgshoaib.me/) has a selection of frontend work across client products and personal projects, documenting my learning journey. I also 
+write notes on frontend engineering, and the decisions behind the work.
